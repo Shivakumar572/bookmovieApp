@@ -1,0 +1,16 @@
+.dispNone{
+    display:none;
+}
+
+.dispBlock {
+    display: block;
+}
+.red{
+    color:red;
+}
+.errdisplay{
+    background-color:#252424;
+    color: #f6f6f6;
+    padding:5px;
+    border-radius: 10%;
+}
